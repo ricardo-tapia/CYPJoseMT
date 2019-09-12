@@ -1,4 +1,4 @@
-#Jose Ricardo Machuca Tapia
+# Jose Ricardo Machuca Tapia
 ## computadoras y programacion grupo 1157
 ## semestre 2020-I
 ![logo FES aragon](fesa.jpg)
