@@ -3,3 +3,5 @@ Q = int(input("Dame el segundo valor:"))
 EXP = P**3 + Q**4 - 2 * p**2
 print("{EXP}")
 if EXP < 680:
+    print(f"valores: {P,Q}")
+print("fin del programa")
