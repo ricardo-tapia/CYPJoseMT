@@ -7,4 +7,3 @@ X2 = ((-B)-DIS**0.5)/2*A
 if DIS > 0:
     print(f"las raices son: x1:{X1} y x2:{X2}")
 print("Fin del programa")
-
