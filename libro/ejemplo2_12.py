@@ -18,3 +18,4 @@ else:
             print(f"{B} > {C} > {A}")
     else:
         print(f"{C} > {B} > {A}")
+
