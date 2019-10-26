@@ -1,11 +1,11 @@
-NUM = int(input("Dame un numero:"))
-if NUM > 0:
-	while (NUM != 1):
-		print(f"El numero es:{NUM}")
-		if (-1**NUM)>0:
-			NUM = NUM / 2
-		else:
-			NUM = (NUM *3) +1
+num = int(input("Dame un número: "))
+
+if num > 0:
+    while num != 1:
+        if num % 2 == 0:
+            num = num / 2
+        else:
+            num = (num * 3) + 1
+        print (num)
 else:
-	print("El numero tiene que ser un entero positivo")
-print ("Fin del programa")
+    print ("El número tiene que ser un entero positivo")
